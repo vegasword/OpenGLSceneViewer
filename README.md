@@ -1,4 +1,4 @@
-# Open GL Scene Viewer
+# OpenGL Scene Viewer
 
 ![PNG](banner.png)
 
