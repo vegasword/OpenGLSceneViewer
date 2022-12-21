@@ -10,6 +10,6 @@ Simply load the solution from your IDE and build it.
 
 ## Bindings
 
-WASD to move the camera around.
+Hold RMB + WASD to move the camera around.
 
 Space / Left Shift to move upwards / downwards.
